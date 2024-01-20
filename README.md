@@ -6,7 +6,7 @@ Minimal **Django** project with `Docker` support - actively supported by [AppSee
 
 <br /> 
 
-## Features: 
+## Features
 
 - ✅ `Up-to-date Dependencies`
 - ✅ `Docker`

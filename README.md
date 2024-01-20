@@ -1,4 +1,4 @@
-# Django Core
+# [Django Core](https://github.com/app-generator/core-django) `Volt`
 
 Minimal **Django** project with `Docker` support - actively supported by [AppSeed](https://appseed.us/) via `Email` and **[Discord](https://discord.gg/fZC6hup)** `(2k+ Members)`.
 
@@ -18,8 +18,8 @@ Minimal **Django** project with `Docker` support - actively supported by [AppSee
 > 👉 **Step 1** - Download the code from the GH repository (using `GIT`) 
 
 ```bash
-$ git clone https://github.com/app-generator/core-django.git
-$ cd core-django
+$ git clone https://github.com/app-generator/core-django-volt.git
+$ cd core-django-volt
 ```
 
 <br />
@@ -39,8 +39,8 @@ Visit `http://localhost:5085` in your browser. The app should be up & running.
 > 👉 Download the code  
 
 ```bash
-$ git clone https://github.com/app-generator/core-django.git
-$ cd core-django
+$ git clone https://github.com/app-generator/core-django-volt.git
+$ cd core-django-volt
 ```
 
 <br />
@@ -75,4 +75,4 @@ At this point, the app runs at `http://127.0.0.1:8000/`.
 <br />
 
 ---
-**Django Core** - Minimal **Django** core provided by **[AppSeed](https://appseed.us/)**
+[Django Core](https://github.com/app-generator/core-django) `Volt` - Minimal **Django** core provided by **[AppSeed](https://appseed.us/)**
